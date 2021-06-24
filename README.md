@@ -1,6 +1,7 @@
 # Shellby
 University project describing a Linux Shell with external and self-implemented commands, redirection and piping.
 The application is made to be used in a Linux environment and be compiled with the commands "gcc Shell.c -o Shell.out -lreadline", "./Shell.out"
+
 -lreadline is used in order to link the GNU readline library, which I used for the history.
 
 I have self-implemented the following commands:
